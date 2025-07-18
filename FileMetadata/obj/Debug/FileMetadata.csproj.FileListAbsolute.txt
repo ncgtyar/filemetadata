@@ -1,0 +1,6 @@
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\bin\Debug\FileMetadata.dll
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\bin\Debug\FileMetadata.pdb
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\obj\Debug\FileMetadata.csproj.AssemblyReference.cache
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\obj\Debug\FileMetadata.csproj.CoreCompileInputs.cache
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\obj\Debug\FileMetadata.dll
+C:\Users\aricg\source\repos\FileMetadata\FileMetadata\obj\Debug\FileMetadata.pdb
